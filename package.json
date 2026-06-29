@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.53.0",
+  "version": "0.54.0",
   "description": "An ACP-compatible coding agent powered by the Claude Agent SDK (TypeScript)",
   "main": "dist/lib.js",
   "types": "dist/lib.d.ts",
@@ -77,7 +77,7 @@
     "eslint": "10.6.0",
     "eslint-config-prettier": "10.1.8",
     "globals": "17.7.0",
-    "prettier": "3.9.3",
+    "prettier": "3.9.1",
     "ts-node": "10.9.2",
     "typescript": "6.0.3",
     "vitest": "4.1.9"
